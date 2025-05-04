@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 定义目录路径
-dir1="~/easytier-web/frontend-lib/"
-dir2="~/easytier-web/frontend/"
+dir1="/opt/buildhome/repo/easytier-web/frontend-lib/"
+dir2="/opt/buildhome/repo//easytier-web/frontend/"
 
 # 判断并处理第一个目录
 if [ -d "$dir1" ]; then
